@@ -32,3 +32,4 @@ plt.ylabel("h(t)")
 plt.grid(True, linestyle="--", alpha=0.6)
 plt.legend()
 
+plt.show()
